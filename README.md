@@ -10,4 +10,5 @@ cd backend
 npm run dev
 
 2 - Ejecutar frontend
+
 npm run start
