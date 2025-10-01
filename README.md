@@ -1,0 +1,10 @@
+Mini aplicación en donde muestro cómo conectar una base de datos con backend en node.js / express con un frontend en react.js
+Intenté utilizar lo mínimo e indispensable para poder mostrar solo cómo ocurre la conexión. 
+
+Instrucciones:
+
+1 - Ejecutar backend 
+    cd backend 
+    npm run dev
+2 - Ejecutar frontend
+    npm run start
