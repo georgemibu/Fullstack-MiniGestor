@@ -4,7 +4,7 @@ Intenté utilizar lo mínimo e indispensable para poder mostrar solo cómo ocurr
 Instrucciones:
 
 1 - Ejecutar backend 
-    cd backend 
-    npm run dev
+cd backend 
+npm run dev
 2 - Ejecutar frontend
-    npm run start
+npm run start
